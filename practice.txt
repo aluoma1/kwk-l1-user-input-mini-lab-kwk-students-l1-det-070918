@@ -1,0 +1,6 @@
+first = "Annelise"
+second = "Luoma"
+age = 17
+puts first 
+puts second
+puts age
