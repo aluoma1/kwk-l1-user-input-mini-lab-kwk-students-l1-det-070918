@@ -14,8 +14,8 @@ eat = gets.chomp
 
 puts "How many nights would you like to stay"
 
-night = gets.chomp
+nights = gets.chomp
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "Great! You will be staying in #{stay}, for #{night} nights, and you will be eating #{eat}"
+puts "Great! You will be staying in #{stay}, for #{nights} nights, and you will be eating #{eat}"
